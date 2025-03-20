@@ -5,7 +5,7 @@
 ### Prerequisites
 
 Ensure you have the following installed:
-- Python 3.8
+- Python 3.10
 - Poetry (Might install by `make init-poetry`)
 
 ### Pull sub-modules
