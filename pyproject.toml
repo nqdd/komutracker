@@ -10,6 +10,7 @@ PyQt5-Qt5 = "^5.15.16"
 pyinstaller = "4.8"
 pyobjc-core = "9.0.1"
 python = "^3.8,<3.11"
+urllib3 = "^2.2.2"
 # Installing them from here won't work
 #aw-core = {path = "aw-core"}
 #aw-client = {path = "aw-client"}
